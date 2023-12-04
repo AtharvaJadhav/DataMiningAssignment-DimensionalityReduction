@@ -27,7 +27,4 @@ This Colab notebook demonstrates the use of dimensionality reduction techniques,
 **Description:**
 This notebook provides a detailed walkthrough of implementing dimensionality reduction techniques using the Databricks platform. It is designed to leverage Databricks' powerful data processing capabilities for handling and visualizing high-dimensional data.
 
-**Key Features:**
-- **Databricks Integration:** Demonstrates how to utilize Databricks' environment for effective dimensionality reduction.
-- **Various Techniques:** Covers a range of dimensionality reduction methods, tailored to the strengths of the Databricks platform.
-- **Hands-on Examples:** Includes practical examples with datasets available within Databricks.
+Databricks link - https://community.cloud.databricks.com/?o=8629549655439249#notebook/2010186362267454/command/2010186362267455
